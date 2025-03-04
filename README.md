@@ -1,5 +1,5 @@
 1- Adventure Works: adadada
 
-2- EO_Duruşlar: asdasda
+2- Maven Market: 123131312
 
-3- Maven Market: 123131312
+3- EO_Duruşlar: asdasda
